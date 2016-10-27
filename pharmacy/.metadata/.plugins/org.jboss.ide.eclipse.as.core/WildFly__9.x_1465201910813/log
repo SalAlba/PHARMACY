@@ -1,0 +1,779 @@
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-06 10:54:55.860
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-06 10:55:05.132
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-06 10:55:05.234
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-06 10:55:25.149
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-06 11:08:17.778
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-06 11:08:23.513
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-06 11:08:23.707
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-06 11:08:43.943
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-06 11:10:16.890
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-06 11:10:27.782
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-06 11:10:36.910
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-06 11:10:47.803
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-06 11:13:04.907
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-06 11:13:05.448
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-06 11:13:37.938
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-06 11:13:42.657
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-06 11:13:42.812
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-06 11:14:02.998
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-06 11:26:41.861
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-06 11:26:42.438
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-06 11:26:55.109
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-06 11:26:59.477
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-06 11:26:59.717
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-06 11:27:19.848
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-06 12:14:34.825
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-06 12:14:35.431
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 16842768 2016-06-06 12:14:35.437
+!MESSAGE Poll Thread Aborted: null
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-06 12:14:47.667
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-06 12:14:52.284
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-06 12:14:52.413
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-06 12:15:12.511
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-06 12:35:11.863
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-06 12:35:17.377
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-06 12:35:21.591
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-06 12:35:21.746
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-06 12:35:41.838
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-09 10:45:10.571
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-09 10:45:34.724
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-09 10:45:34.752
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-09 10:45:54.764
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-09 10:51:55.327
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-09 10:51:55.881
+!MESSAGE Server processes have been terminated.
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-09 12:06:44.243
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-09 12:07:07.479
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-09 12:07:07.505
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-09 12:07:27.517
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-09 19:02:14.602
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-09 19:02:21.510
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-09 19:02:21.544
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-09 19:02:41.556
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-09 19:10:54.024
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-09 19:10:54.757
+!MESSAGE Server processes have been terminated.
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-14 15:08:34.410
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-14 15:09:02.082
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-14 15:09:02.084
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-14 15:09:22.118
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-14 15:32:29.885
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 16842768 2016-06-14 15:32:30.751
+!MESSAGE Poll Thread Aborted: null
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-14 15:32:30.778
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-14 15:32:34.884
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-14 15:32:43.627
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-14 15:32:43.651
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-14 15:33:05.662
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-14 15:35:11.868
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-14 15:35:12.356
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-14 15:36:21.196
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-14 15:36:27.015
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-14 15:36:27.049
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-14 15:36:49.062
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-14 15:39:53.847
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-14 15:39:54.289
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-14 15:40:09.098
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-14 15:40:13.805
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-14 15:40:13.860
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-14 15:40:35.871
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-14 15:44:00.573
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-14 15:44:01.212
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-14 15:44:28.386
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-14 15:44:33.697
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-14 15:44:33.715
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-14 15:44:53.809
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-14 15:45:54.505
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-14 15:45:54.936
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-14 15:49:58.608
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-14 15:50:04.229
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-14 15:50:04.249
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-14 15:50:26.263
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-14 15:50:59.030
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-14 15:50:59.568
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-14 15:56:29.871
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-14 15:56:34.479
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-14 15:56:34.524
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-14 15:56:54.536
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2016-06-14 16:49:09.495
+!MESSAGE Incremental publish failed for module web-impl
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:09.495
+!MESSAGE Could not delete D:/JAVA/wildfly-9.0.2.Final/standalone/deployments/pharmacy.ear/web-impl.war/resources. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 1644298244 2016-06-14 16:49:17.963
+!MESSAGE Incremental publish failed for module web-impl
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\view\admin\_admin_head.xhtml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\view\admin\_nav.xhtml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\view\admin\nav_test.xhtml. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\view\admin\test. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:/JAVA/wildfly-9.0.2.Final/standalone/deployments/pharmacy.ear/web-impl.war/resources/view/admin. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\themes\images\products\1.png. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\themes\images\products\20141229133816_1.png. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\themes\images\products\kindle.png. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\themes\images\products\large\3.jpg. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\themes\images\products\large\f1.jpg. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\themes\images\products\large\f2.jpg. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\themes\images\products\large\f3.jpg. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:/JAVA/wildfly-9.0.2.Final/standalone/deployments/pharmacy.ear/web-impl.war/resources/webroot/css/themes/images/products/large. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\themes\images\products\panasonic.jpg. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\themes\images\facebook.png. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\themes\images\ico\apple-touch-icon-114-precomposed.png. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\themes\images\ico\apple-touch-icon-144-precomposed.png. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\themes\images\ico\apple-touch-icon-57-precomposed.png. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\themes\images\ico\apple-touch-icon-72-precomposed.png. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\themes\images\ico\arrow.png. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\themes\images\ico\favicon.ico. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:/JAVA/wildfly-9.0.2.Final/standalone/deployments/pharmacy.ear/web-impl.war/resources/webroot/css/themes/images/ico. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\themes\images\lightbox\Close.png. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\themes\images\lightbox\lightbox-blank.gif. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\themes\images\lightbox\lightbox-btn-close.gif. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\themes\images\lightbox\lightbox-btn-next.gif. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\themes\images\lightbox\lightbox-btn-prev.gif. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\themes\images\lightbox\lightbox-ico-loading.gif. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:/JAVA/wildfly-9.0.2.Final/standalone/deployments/pharmacy.ear/web-impl.war/resources/webroot/css/themes/images/lightbox. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\themes\images\new.png. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\themes\images\twitter.png. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\themes\images\youtube.png. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\admin\bootstrap\css\bootstrap.css. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\admin\bootstrap\css\bootstrap.min.css. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:/JAVA/wildfly-9.0.2.Final/standalone/deployments/pharmacy.ear/web-impl.war/resources/webroot/css/admin/bootstrap/css. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\admin\bootstrap\fonts\glyphicons-halflings-regular.eot. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\admin\bootstrap\fonts\glyphicons-halflings-regular.svg. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\admin\bootstrap\fonts\glyphicons-halflings-regular.ttf. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\admin\bootstrap\fonts\glyphicons-halflings-regular.woff. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\admin\bootstrap\fonts\glyphicons-halflings-regular.woff2. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:/JAVA/wildfly-9.0.2.Final/standalone/deployments/pharmacy.ear/web-impl.war/resources/webroot/css/admin/bootstrap/fonts. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\admin\bootstrap\js\bootstrap.js. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\admin\bootstrap\js\bootstrap.min.js. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:/JAVA/wildfly-9.0.2.Final/standalone/deployments/pharmacy.ear/web-impl.war/resources/webroot/css/admin/bootstrap/js. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:/JAVA/wildfly-9.0.2.Final/standalone/deployments/pharmacy.ear/web-impl.war/resources/webroot/css/admin/bootstrap. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\css\admin\css\local.css. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:/JAVA/wildfly-9.0.2.Final/standalone/deployments/pharmacy.ear/web-impl.war/resources/webroot/css/admin/css. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.963
+!MESSAGE Could not delete D:/JAVA/wildfly-9.0.2.Final/standalone/deployments/pharmacy.ear/web-impl.war/resources/webroot/css/admin. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\css\font-awesome.css. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\css\font-awesome.min.css. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:/JAVA/wildfly-9.0.2.Final/standalone/deployments/pharmacy.ear/web-impl.war/resources/webroot/admin-font-awesome/css. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\fonts\FontAwesome.otf. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\fonts\fontawesome-webfont.eot. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\fonts\fontawesome-webfont.svg. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\fonts\fontawesome-webfont.ttf. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\fonts\fontawesome-webfont.woff. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\fonts\fontawesome-webfont.woff2. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:/JAVA/wildfly-9.0.2.Final/standalone/deployments/pharmacy.ear/web-impl.war/resources/webroot/admin-font-awesome/fonts. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\less\bordered-pulled.less. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\less\core.less. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\less\fixed-width.less. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\less\font-awesome.less. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\less\icons.less. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\less\larger.less. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\less\list.less. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\less\mixins.less. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\less\path.less. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\less\rotated-flipped.less. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\less\spinning.less. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\less\stacked.less. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\less\variables.less. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:/JAVA/wildfly-9.0.2.Final/standalone/deployments/pharmacy.ear/web-impl.war/resources/webroot/admin-font-awesome/less. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\scss\_bordered-pulled.scss. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\scss\_core.scss. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\scss\_fixed-width.scss. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\scss\_icons.scss. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\scss\_larger.scss. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\scss\_list.scss. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\scss\_mixins.scss. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\scss\_path.scss. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\scss\_rotated-flipped.scss. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\scss\_spinning.scss. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\scss\_stacked.scss. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\scss\_variables.scss. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:\JAVA\wildfly-9.0.2.Final\standalone\deployments\pharmacy.ear\web-impl.war\resources\webroot\admin-font-awesome\scss\font-awesome.scss. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:/JAVA/wildfly-9.0.2.Final/standalone/deployments/pharmacy.ear/web-impl.war/resources/webroot/admin-font-awesome/scss. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:/JAVA/wildfly-9.0.2.Final/standalone/deployments/pharmacy.ear/web-impl.war/resources/webroot/admin-font-awesome. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:/JAVA/wildfly-9.0.2.Final/standalone/deployments/pharmacy.ear/web-impl.war/resources/webroot/fonts. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:/JAVA/wildfly-9.0.2.Final/standalone/deployments/pharmacy.ear/web-impl.war/resources/webroot/img. May be locked by another process.
+!SUBENTRY 1 org.jboss.ide.eclipse.as.wtp.core 4 1644298251 2016-06-14 16:49:17.964
+!MESSAGE Could not delete D:/JAVA/wildfly-9.0.2.Final/standalone/deployments/pharmacy.ear/web-impl.war/resources/webroot/js. May be locked by another process.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-14 16:49:26.110
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-14 16:49:26.834
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-14 16:49:53.530
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-14 16:50:02.848
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-14 16:50:02.882
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-14 16:50:22.893
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-14 16:53:12.782
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-14 16:53:13.288
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-14 16:54:52.402
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-14 16:54:57.957
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-14 16:54:57.959
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-14 16:55:18.103
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-14 17:08:14.595
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-14 17:08:19.549
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-14 17:08:19.602
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-14 17:08:39.613
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-14 17:20:53.306
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-14 17:20:53.955
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-14 17:20:56.632
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-14 17:21:02.487
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-14 17:21:02.507
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-14 17:21:22.578
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-14 17:33:14.003
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-14 17:33:14.617
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-14 17:33:32.401
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-14 17:33:37.208
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-14 17:33:37.227
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-14 17:33:59.242
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-14 18:07:34.653
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-14 18:07:35.152
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-14 18:07:48.962
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-14 18:07:53.947
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-14 18:07:53.964
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-14 18:08:14.073
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-14 18:27:07.688
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-14 18:27:08.218
+!MESSAGE Server processes have been terminated.
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-20 14:05:48.005
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-20 14:06:22.351
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-20 14:06:22.354
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-20 14:06:42.468
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-20 14:08:54.659
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-20 14:08:55.330
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-20 14:09:07.179
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-20 14:09:11.687
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-20 14:09:11.716
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-20 14:09:33.735
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-20 14:11:57.695
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-20 14:11:58.227
+!MESSAGE Server processes have been terminated.
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-20 15:12:14.552
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-20 15:12:21.720
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-20 15:12:21.778
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-20 15:12:41.793
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-20 16:15:32.365
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-20 16:15:37.796
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-20 16:15:37.866
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-20 16:15:57.879
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-20 16:21:38.121
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-20 16:21:38.567
+!MESSAGE Server processes have been terminated.
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-20 22:44:28.356
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-20 22:44:53.635
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-20 22:44:53.673
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-20 22:45:13.772
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-20 23:28:52.061
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-20 23:28:53.126
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-20 23:29:13.603
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-20 23:29:26.285
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-20 23:29:26.335
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-20 23:29:46.367
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-20 23:51:25.203
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-20 23:51:25.651
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-20 23:51:38.522
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-20 23:51:43.128
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-20 23:51:43.154
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-20 23:52:05.163
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-20 23:55:40.936
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-20 23:55:41.390
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-20 23:56:02.469
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-20 23:56:06.979
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-20 23:56:07.271
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-20 23:56:29.283
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-21 00:02:07.497
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-21 00:02:07.926
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-21 00:02:10.150
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-21 00:02:14.760
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-21 00:02:14.777
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-21 00:02:36.797
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-21 00:04:58.035
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-21 00:04:58.480
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-21 00:05:06.575
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-21 00:05:10.985
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-21 00:05:11.013
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-21 00:05:33.023
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-21 00:08:00.738
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-21 00:08:01.244
+!MESSAGE Server processes have been terminated.
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2016-06-21 11:23:31.493
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2016-06-21 11:24:04.433
+!MESSAGE Module web-impl on WildFly  9.x  not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2016-06-21 11:24:04.665
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2016-06-21 11:24:24.460
+!MESSAGE Module web-impl on WildFly  9.x  still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2016-06-21 11:28:39.352
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2016-06-21 11:28:40.017
+!MESSAGE Server processes have been terminated.

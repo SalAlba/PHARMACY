@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+D:\JAVA\pharmacy\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4062599825.index
+3812389494.index
+1971210852.index
+2529934779.index
+470002844.index
+4179355300.index

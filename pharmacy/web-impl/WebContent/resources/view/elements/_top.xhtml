@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:p="http://primefaces.org/ui"
+	xmlns:composite="http://java.sun.com/jsf/composite">
+
+<composite:interface>
+	<!-- <composite:attribute name="nmLbl" />-->
+</composite:interface>
+
+<composite:implementation>
+<p:messages id="messages" showDetail="true" autoUpdate="true" closable="true" />
+	<div id="header">
+		<div class="container">
+			<!-- Navbar ================================================== -->
+			<div id="logoArea" class="navbar">
+				<a id="smallScreen" data-target="#topMenu" data-toggle="collapse"
+					class="btn btn-navbar"> <span class="icon-bar"></span> <span
+					class="icon-bar"></span> <span class="icon-bar"></span>
+				</a>
+				<div class="navbar-inner responsive">
+					<a class="brand" href="index.xhtml"> <h:graphicImage
+							name="webroot/images/logo.png" />
+					</a>
+					<h:form class="form-inline navbar-search" method="post"
+						action="products.html">
+						<!-- <input id="srchFld" class="srchTxt" type="text" /> --> 
+						<h:selectOneMenu value="#{deafaultLanguageActionBean.locale}" onchange="submit()"
+           					 valueChangeListener="#{deafaultLanguageActionBean.localeChanged}"
+           					 class="srchTxt">
+           				 <f:selectItems value="#{deafaultLanguageActionBean.countries}" /> 
+         				</h:selectOneMenu> 
+         				
+						<p:commandButton class="btn btn-lg btn-info" action="#{defaultUserActionBean.checkUserSessionAttribute()}" value="#{msg['my_account_btn']}" />
+						<a href="contact.xhtml" role="button"> 
+							<span class="btn btn-primary">
+							<h:outputText value="#{msg['contact_nav']}" />
+							</span>
+						</a> 
+						<a href="prescription.xhtml" role="button"> 
+							<span class="btn btn-primary">
+							<h:outputText value="#{msg['prescription_nav']}" />
+							</span>
+						</a>
+						<a href="transaction.xhtml" role="button"> 
+							<span class="btn btn-primary"><h:outputText value="#{msg['cart_nav']}" /></span>
+						</a>
+						<a href="#login" role="button" data-toggle="modal" style="padding-right: 0"> 
+							<span class="btn  btn-success"><h:outputText value="#{msg['login_nav']}" /></span>
+						</a>
+						<a href="register.xhtml" role="button"> 
+							<span class="btn btn-danger"><h:outputText value="#{msg['register_nav']}" /></span>
+						</a> 
+					
+					</h:form>
+						<div id="login" class="modal hide fade in" tabindex="-1"
+							role="dialog" aria-labelledby="login" aria-hidden="false">
+							<div class="modal-header">
+								<h3>Login</h3>
+							</div>
+							<div class="modal-body">
+								<h:form>
+
+									<p:panel>
+										<h:panelGrid columns="2" id="matchGrid" cellpadding="5">
+											<p:outputLabel for="email" value="Email: " />
+											<p:inputText id="email" value="#{email}"
+												validatorMessage="Email: Wrong email. Use pattern: 'name@address.com'">
+												<f:validateRegex
+													pattern="^[\w\.-]*[a-zA-Z0-9_]@[\w\.-]*[a-zA-Z0-9]\.[a-zA-Z][a-zA-Z\.]*[a-zA-Z]$" />
+											</p:inputText>
+											<h:outputLabel for="pwd1" value="Password: " />
+											<p:password id="pwd1" value="#{password}"
+												validatorMessage="Password: wrong password.">
+												<f:validateRegex
+													pattern="^[A-Za-z0-9!@#$^*_+';:,./?-]{6,16}$" />
+											</p:password>
+											<h:commandButton class="btn btn-primary" value="Log In"
+												action="#{defaultUserActionBean.login(email, password)}"></h:commandButton>
+											<h:commandButton class="btn btn-danger" data-dismiss="modal"
+												value="Close" aria-hidden="true"></h:commandButton>
+										</h:panelGrid>
+									</p:panel>
+								</h:form>
+							</div>
+						</div>
+				
+				</div>
+			</div>
+		</div>
+	</div>
+</composite:implementation>
+</html>
